@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основная темная палитра -->
+    <color name="colorBackgroundDark">#10100F</color>
+    <color name="colorSurfaceDark">#292929</color>
+    <color name="colorSurfaceLight">#918385</color>
+
+    <!-- Текст -->
+    <color name="colorTextPrimary">#F2F7F7</color>
+    <color name="colorText">#DBC8A2</color>
+
+    <!-- Поля ввода -->
+    <color name="colorField">#4b474f</color>
+
+    <!-- Акцент ( ) -->
+    <color name="colorAccent">#C5E52D</color>
+
+    <!-- Ошибка -->
+    <color name="colorError">#E13832</color>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Задачи -->
+    <item
+        android:id="@+id/nav_tasks"
+        android:title="Задачи"
+        android:icon="@drawable/ic_tasks"/>
+
+    <!-- Календарь -->
+    <item
+        android:id="@+id/nav_calendar"
+        android:title="Календарь"
+        android:icon="@drawable/ic_calendar"/>
+
+    <!-- Моё -->
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Моё"
+        android:icon="@drawable/ic_profile"/>
+
+    <!-- Настройки -->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Настройки"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>
